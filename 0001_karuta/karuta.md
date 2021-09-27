@@ -10,7 +10,7 @@ All of a sudden I found myself sitting in our library practicing math, for hours
 
 Also, even when I was spending time on non-math-related matters, I would still find that math problems kept popping into my head and to the forefront of my attention.
 
-So let's take Karuta as an example. You do know about Karuta, right? Well if not, suffice it to say that there are 100 different poems / cards in 競技かるた, but only half of those are selected, at random, to be in the game. ( The other 50 cards are called 空札. )
+Let's take Karuta as an example. There are 100 different poems / cards in 競技かるた, but only half of those are selected, at random, to be in the game. ( The other 50 cards are called 空札. )
 
 Now, there used to be 3 poems in particular, that I fancied WAAAAY more than the rest of the lot.
 
